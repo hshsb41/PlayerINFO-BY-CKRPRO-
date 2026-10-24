@@ -56,8 +56,8 @@ JWT_API_BASE = (
 # ============================================================
 
 BD_CREDS = {
-    "uid": "4423054565",
-    "password": "CKR_PRO_BOT_WF9AMKXDI"
+    "uid": "7872594785",
+    "password": "RISHUZMWZWHSM"
 }
 
 IND_CREDS = {
